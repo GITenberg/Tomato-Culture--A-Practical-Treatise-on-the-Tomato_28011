@@ -1,0 +1,30 @@
+_repo: Tomato-Culture--A-Practical-Treatise-on-the-Tomato_28011
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tracy, W. W. (William Warner)
+    aliases:
+    - Tracy, Will W. (Will Warner)
+    - Tracy, William Warner
+    birthdate: 1845
+    deathdate: 1922
+    gutenberg_agent_id: '33074'
+    url: http://www.gutenberg.org/2009/agents/33074
+description: ''
+gutenberg_issued: '2009-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28011'
+  lccn: 07019798
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Tomatoes'
+title: 'Tomato Culture: A Practical Treatise on the Tomato'
+url: http://www.gutenberg.org/ebooks/28011
